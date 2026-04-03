@@ -10,3 +10,5 @@ for char in user_input.lower():
 
 print("Number of vowels in the string:>>", vowel_count)
 print("Number of consonants in the string:>>", consonant_count)
+
+print("Total number of characters in the string:>>", len(user_input))
